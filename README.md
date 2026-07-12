@@ -10,11 +10,11 @@
 
 <br>
 
-<table>
-<tr>
-<td width="60%">
+<div align="center">
 
 ## 🕷️ About Me
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="280"/>
 
 ```yaml
 Name: Prasanna B
@@ -40,60 +40,56 @@ Currently Learning:
   - System Design
 ```
 
-</td>
-<td width="40%">
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 Tech Stack
 
 ### 👨‍💻 Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,js,html,css,c,cpp,python"/>
-</p>
 
 ### ⚙️ Frameworks
 
-<p>
 <img src="https://skillicons.dev/icons?i=spring,react,tailwind,bootstrap"/>
-</p>
 
 ### 🗄️ Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
 
 ### 🛠 Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven"/>
-</p>
+
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+## 🧩 Coding Profiles
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bprasanna007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange"/></a>
+<a href="https://www.hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bprasanna007&layout=compact&theme=tokyonight&hide_border=true"/>
+*(swap `YOUR_USERNAME` in each link above for your actual handle on that platform)*
 
-</p>
+</div>
 
-<p align="center">
+---
 
-<img src="https://streak-stats.demolab.com?user=bprasanna007&theme=tokyonight&hide_border=true"/>
+## 💬 Random Dev Quote
 
-</p>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -162,6 +158,7 @@ Comprehensive Java OOP concepts with interview-focused examples.
 
 ## 🎯 2026 Goals
 
+* ✅ Solve 500+ DSA Problems
 * ✅ Master Spring Boot
 * ✅ Learn Docker
 * ✅ Learn AWS
@@ -173,7 +170,7 @@ Comprehensive Java OOP concepts with interview-focused examples.
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/bprasanna007">
 <img src="https://skillicons.dev/icons?i=github"/>
