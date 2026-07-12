@@ -1,34 +1,23 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Prasanna B**
+# 🕷️ Hey, I'm **Prasanna B**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=E62429&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Problem+Solver;AI+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=E62429&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Problem+Solver;AI+Enthusiast;Always+Learning+New+Things" />
 
-### 💻 Building scalable applications with Java & Spring Boot
-
-<img src="https://komarev.com/ghpvc/?username=bprasanna007&label=Profile%20Views&color=E62429&style=for-the-badge"/>
+### 💻 Java Full Stack Developer | Spring Boot | React | AI Enthusiast
 
 </div>
 
 ---
 
-# 🕷️ About Me
+## 🕷️ About Me
 
 ```yaml
 Name: Prasanna B
-Location: Tamil Nadu, India
 Role: Java Full Stack Developer
 Education: B.E Computer Science and Engineering
 College: PSR Engineering College
 Graduation: 2027
-
-Interests:
-  - Java
-  - Spring Boot
-  - React
-  - REST APIs
-  - Artificial Intelligence
-  - Problem Solving
 
 Currently Learning:
   - Spring Security
@@ -36,172 +25,118 @@ Currently Learning:
   - Docker
   - AWS
   - System Design
+  - Data Structures & Algorithms
 ```
 
 ---
 
-# 🚀 Tech Stack
+## 💻 Tech Stack
 
-### 👨‍💻 Languages
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,c,cpp,python"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=java,js,html,css,c,cpp,python" /></p>
 
-### ⚙️ Frameworks
+**Frameworks**
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,tailwind,bootstrap"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=spring,react,tailwind,bootstrap" /></p>
 
-### 🗄️ Database
+**Database**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=mysql" /></p>
 
-### 🛠 Tools
+**Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven" /></p>
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bprasanna007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bprasanna007&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bprasanna007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bprasanna007&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=bprasanna007&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=bprasanna007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bprasanna007&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bprasanna007&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
+### 💰 Smart Expense Tracker
+- React + Spring Boot + MySQL
+- Budget Planning
+- Analytics Dashboard
+- REST APIs
+- Responsive UI
 
-<img src="https://github-profile-trophy.vercel.app/?username=bprasanna007&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&column=4"/>
+### ✈️ Airline Management System
+- Java
+- JDBC
+- MySQL
+- Flight & Ticket Management
 
-</p>
+### 💳 Finance Management System
+- Java
+- Spring Boot
+- MySQL
 
----
+### 📚 Java OOP Practice
+- Core Java
+- OOP Concepts
+- Interview Programs
 
-# 💼 Featured Projects
-
-## 💰 Smart Expense Tracker
-
-> AI-powered expense management system built using **React, Spring Boot, MySQL**.
-
-### Features
-
-* Secure Login
-* Expense Tracking
-* Budget Planner
-* Analytics Dashboard
-* AI Insights
-* Responsive UI
-
----
-
-## ✈️ Airline Management System
-
-Java Desktop Application with MySQL
-
-* Flight Booking
-* Customer Management
-* Ticket Reservation
-* Payment Module
+### 🌐 Portfolio Website
+- React
+- Tailwind CSS
+- Framer Motion
 
 ---
 
-## 💳 Finance Management System
-
-* Income & Expense Tracking
-* Financial Reports
-* Transaction History
-* MySQL Database
-
----
-
-## 📚 Java OOP Practice
-
-Comprehensive Java OOP concepts with interview-focused examples.
+## 🌱 Currently Learning
+- Spring Security
+- JWT Authentication
+- Docker
+- AWS
+- System Design
+- LeetCode Daily
 
 ---
 
-# 📚 Currently Learning
-
-* Spring Security
-* JWT Authentication
-* Docker
-* AWS Basics
-* System Design
-* Data Structures & Algorithms
-
----
-
-# 🎯 2026 Goals
-
-* ✅ Solve 500+ DSA Problems
-* ✅ Master Spring Boot
-* ✅ Learn Docker
-* ✅ Learn AWS
-* ✅ Contribute to Open Source
-* ✅ Build AI Projects
-* ✅ Crack Software Engineer Role
+## 🎯 2026 Goals
+- ✅ Solve 500+ DSA Problems
+- ✅ Master Spring Boot
+- ✅ Learn Docker
+- ✅ Learn AWS
+- ✅ Build AI Projects
+- ✅ Contribute to Open Source
 
 ---
 
-# 🌐 Connect With Me
+## 📫 Connect With Me
 
 <p>
-
-<a href="https://github.com/bprasanna007">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prasannab04/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:bprasannab1202@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+  <a href="https://github.com/bprasanna007"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/prasannab04/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:bprasannab1202@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-# ⚡ Fun Fact
-
-> "Code like Peter Parker. Debug like Tony Stark. Never stop learning."
-
----
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -210,6 +145,6 @@ Comprehensive Java OOP concepts with interview-focused examples.
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Dream. Build. Break. Learn. Repeat."*
+*"Dream • Build • Learn • Repeat"*
 
 </div>
