@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=200&section=header&text=Hi%20There!%20I'm%20Prasanna%20B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=55&descSize=18"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Prasanna B**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=E62429&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Problem+Solver;AI+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=E62429&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Problem+Solver;AI+Enthusiast;Always+Learning+New+Things"/>
+
+### 💻 Building scalable applications with Java & Spring Boot
 
 <img src="https://komarev.com/ghpvc/?username=bprasanna007&label=Profile%20Views&color=E62429&style=for-the-badge"/>
 
 </div>
 
-<br>
+---
 
-<div align="center">
-
-## 🕷️ About Me
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="280"/>
+# 🕷️ About Me
 
 ```yaml
 Name: Prasanna B
@@ -40,60 +38,55 @@ Currently Learning:
   - System Design
 ```
 
-</div>
-
 ---
 
-<div align="center">
-
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### 👨‍💻 Languages
 
+<p>
 <img src="https://skillicons.dev/icons?i=java,js,html,css,c,cpp,python"/>
+</p>
 
 ### ⚙️ Frameworks
 
+<p>
 <img src="https://skillicons.dev/icons?i=spring,react,tailwind,bootstrap"/>
+</p>
 
 ### 🗄️ Database
 
+<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
 ### 🛠 Tools
 
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven"/>
-
-</div>
-
----
-
-## 🧩 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange"/></a>
-<a href="https://www.hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-
-*(swap `YOUR_USERNAME` in each link above for your actual handle on that platform)*
-
-</div>
+</p>
 
 ---
 
-## 💬 Random Dev Quote
+# 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bprasanna007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bprasanna007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=bprasanna007&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -103,13 +96,24 @@ Currently Learning:
 
 ---
 
-## 💼 Featured Projects
+# 🏆 GitHub Trophies
 
-### 💰 Smart Expense Tracker
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bprasanna007&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+## 💰 Smart Expense Tracker
 
 > AI-powered expense management system built using **React, Spring Boot, MySQL**.
 
-**Features**
+### Features
+
 * Secure Login
 * Expense Tracking
 * Budget Planner
@@ -119,7 +123,7 @@ Currently Learning:
 
 ---
 
-### ✈️ Airline Management System
+## ✈️ Airline Management System
 
 Java Desktop Application with MySQL
 
@@ -130,7 +134,7 @@ Java Desktop Application with MySQL
 
 ---
 
-### 💳 Finance Management System
+## 💳 Finance Management System
 
 * Income & Expense Tracking
 * Financial Reports
@@ -139,13 +143,13 @@ Java Desktop Application with MySQL
 
 ---
 
-### 📚 Java OOP Practice
+## 📚 Java OOP Practice
 
 Comprehensive Java OOP concepts with interview-focused examples.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 * Spring Security
 * JWT Authentication
@@ -156,7 +160,7 @@ Comprehensive Java OOP concepts with interview-focused examples.
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 * ✅ Solve 500+ DSA Problems
 * ✅ Master Spring Boot
@@ -168,9 +172,9 @@ Comprehensive Java OOP concepts with interview-focused examples.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
+<p>
 
 <a href="https://github.com/bprasanna007">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -188,15 +192,19 @@ Comprehensive Java OOP concepts with interview-focused examples.
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
 > "Code like Peter Parker. Debug like Tony Stark. Never stop learning."
+
+---
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+
+---
 
 <div align="center">
 
@@ -205,5 +213,3 @@ Comprehensive Java OOP concepts with interview-focused examples.
 *"Dream. Build. Break. Learn. Repeat."*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=150&section=footer"/>
