@@ -92,17 +92,7 @@ Currently Learning:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bprasanna007&theme=tokyo-night&hide_border=true"/>
 
-</p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bprasanna007&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&column=4"/>
-
-</p>
 
 ---
 
@@ -162,7 +152,6 @@ Comprehensive Java OOP concepts with interview-focused examples.
 
 # 🎯 2026 Goals
 
-* ✅ Solve 500+ DSA Problems
 * ✅ Master Spring Boot
 * ✅ Learn Docker
 * ✅ Learn AWS
